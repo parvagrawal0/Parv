@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+PyMySQL
+PyJWT
+python-dotenv
+Werkzeug
+requests
+uvicorn
+
